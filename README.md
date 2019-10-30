@@ -107,3 +107,5 @@ present, they are:
 - `unencrypted.json`: a small sample unencrypted election record demonstrating
   the schema expected by the `encrypt` tool and suitable for generating test
   cases like the above
+
+ 
